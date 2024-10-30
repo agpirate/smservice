@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "username": "johndoe",
+      "password": "password123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "username": "janesmith",
+      "password": "password456",
+      "role": "creator"
+    },
+    {
+      "id": 3,
+      "firstname": "Alice",
+      "lastname": "Johnson",
+      "username": "alicejohnson",
+      "password": "password789",
+      "role": "viewer"
+    },
+    {
+      "id": 4,
+      "firstname": "Michael",
+      "lastname": "Brown",
+      "username": "michaelbrown",
+      "password": "password123",
+      "role": "viewer"
+    },
+    {
+      "id": 5,
+      "firstname": "Emily",
+      "lastname": "Davis",
+      "username": "emilydavis",
+      "password": "password456",
+      "role": "creator"
+    },
+    {
+      "id": 6,
+      "firstname": "David",
+      "lastname": "Wilson",
+      "username": "davidwilson",
+      "password": "password789",
+      "role": "viewer"
+    },
+    {
+      "id": 7,
+      "firstname": "Emma",
+      "lastname": "Martinez",
+      "username": "emmamartinez",
+      "password": "password123",
+      "role": "viewer"
+    },
+    {
+      "id": 8,
+      "firstname": "Daniel",
+      "lastname": "Taylor",
+      "username": "danieltaylor",
+      "password": "password456",
+      "role": "creator"
+    },
+    {
+      "id": 9,
+      "firstname": "Olivia",
+      "lastname": "Thomas",
+      "username": "oliviathomas",
+      "password": "password789",
+      "role": "viewer"
+    },
+    {
+      "id": 10,
+      "firstname": "James",
+      "lastname": "Hernandez",
+      "username": "jameshernandez",
+      "password": "password123",
+      "role": "admin"
+    }
+  ]
+  

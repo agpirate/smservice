@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "creator_id": "user123",
+      "summary": "Which news channel do you trust the most?",
+      "programIdcode": "TCH",
+      "schedule": {
+        "start": "2024-05-01",
+        "end": "2024-05-01"
+      }
+    },
+    {
+      "id": 2,
+      "creator_id": "user456",
+      "summary": "What is your favorite political talk show?",
+      "programIdcode": "FPTS",
+      "schedule": {
+        "start": "2024-05-02",
+        "end": "2024-05-02"
+      }
+    },
+    {
+      "id": 3,
+      "creator_id": "user789",
+      "summary": "Which news program provides the most comprehensive coverage?",
+      "programIdcode": "NPCC",
+      "schedule": {
+        "start": "2024-05-03",
+        "end": "2024-05-03"
+      }
+    },
+    {
+      "id": 4,
+      "creator_id": "user123",
+      "summary": "What is your favorite business news segment?",
+      "programIdcode": "FBNS",
+      "schedule": {
+        "start": "2024-05-04",
+        "end": "2024-05-04"
+      }
+    },
+    {
+      "id": 5,
+      "creator_id": "user456",
+      "summary": "Which news anchor do you find most reliable?",
+      "programIdcode": "MRNA",
+      "schedule": {
+        "start": "2024-05-05",
+        "end": "2024-05-05"
+      }
+    },
+    {
+      "id": 6,
+      "creator_id": "user789",
+      "summary": "What is your favorite international news program?",
+      "programIdcode": "FINP",
+      "schedule": {
+        "start": "2024-05-06",
+        "end": "2024-05-06"
+      }
+    },
+    {
+      "id": 7,
+      "creator_id": "user123",
+      "summary": "Which news website do you visit most frequently?",
+      "programIdcode": "MVWS",
+      "schedule": {
+        "start": "2024-05-07",
+        "end": "2024-05-07"
+      }
+    },
+    {
+      "id": 8,
+      "creator_id": "user456",
+      "summary": "What is your favorite weather forecast program?",
+      "programIdcode": "FWF",
+      "schedule": {
+        "start": "2024-05-08",
+        "end": "2024-05-08"
+      }
+    },
+    {
+      "id": 9,
+      "creator_id": "user789",
+      "summary": "Which news channel offers the best investigative journalism?",
+      "programIdcode": "BIJ",
+      "schedule": {
+        "start": "2024-05-09",
+        "end": "2024-05-09"
+      }
+    },
+    {
+      "id": 10,
+      "creator_id": "user123",
+      "summary": "What is your favorite morning news show?",
+      "programIdcode": "FMNS",
+      "schedule": {
+        "start": "2024-05-10",
+        "end": "2024-05-10"
+      }
+    },
+    {
+      "id": 11,
+      "creator_id": "user456",
+      "summary": "Which news channel offers the most unbiased reporting?",
+      "programIdcode": "MUNC",
+      "schedule": {
+        "start": "2024-05-11",
+        "end": "2024-05-11"
+      }
+    },
+    {
+      "id": 12,
+      "creator_id": "user789",
+      "summary": "What is your favorite late-night news program?",
+      "programIdcode": "FLNN",
+      "schedule": {
+        "start": "2024-05-12",
+        "end": "2024-05-12"
+      }
+    },
+    {
+      "id": 13,
+      "creator_id": "user123",
+      "summary": "Which news channel provides the best analysis of current events?",
+      "programIdcode": "BACN",
+      "schedule": {
+        "start": "2024-05-13",
+        "end": "2024-05-13"
+      }
+    },
+    {
+      "id": 14,
+      "creator_id": "user456",
+      "summary": "What is your favorite local news program?",
+      "programIdcode": "FLN",
+      "schedule": {
+        "start": "2024-05-14",
+        "end": "2024-05-14"
+      }
+    },
+    {
+      "id": 15,
+      "creator_id": "user789",
+      "summary": "Which news channel provides the most accurate breaking news?",
+      "programIdcode": "MABN",
+      "schedule": {
+        "start": "2024-05-15",
+        "end": "2024-05-15"
+      }
+    },
+    {
+      "id": 16,
+      "creator_id": "user123",
+      "summary": "What is your favorite investigative news program?",
+      "programIdcode": "FIN",
+      "schedule": {
+        "start": "2024-05-16",
+        "end": "2024-05-16"
+      }
+    },
+    {
+      "id": 17,
+      "creator_id": "user456",
+      "summary": "Which news channel offers the most in-depth coverage of global events?",
+      "programIdcode": "MIGC",
+      "schedule": {
+        "start": "2024-05-17",
+        "end": "2024-05-17"
+      }
+    },
+    {
+      "id": 18,
+      "creator_id": "user789",
+      "summary": "What is your favorite investigative news segment?",
+      "programIdcode": "FINS",
+      "schedule": {
+        "start": "2024-05-18",
+        "end": "2024-05-18"
+      }
+    },
+    {
+      "id": 19,
+      "creator_id": "user123",
+      "summary": "Which news channel offers the best political coverage?",
+      "programIdcode": "BPC",
+      "schedule": {
+        "start": "2024-05-19",
+        "end": "2024-05-19"
+      }
+    },
+    {
+      "id": 20,
+      "creator_id": "user456",
+      "summary": "What is your favorite news commentary program?",
+      "programIdcode": "FNC",
+      "schedule": {
+        "start": "2024-05-20",
+        "end": "2024-05-20"
+      }
+    }
+  ]
+  
